@@ -59,7 +59,7 @@ nav a:hover {
     padding: 14px 35px;
     background: gold;
     color: black;
-    font-weight: bold;
+    font-weight: bold; up
     text-decoration: none;
 }
 
@@ -222,8 +222,8 @@ footer {
 
 <div class="price-card">
 <h3>Starter</h3>
-<h2>₦150,000 / month</h2>
-<ul>
+<h2>₦100,000 / month</h2>
+<ul> 
 <li>15 Social Posts</li>
 <li>Lead Generation Ads</li>
 <li>Monthly Report</li>
@@ -255,7 +255,7 @@ footer {
 
 <section class="section" id="contact">
 <h2>Book A Free Strategy Call</h2>
-<form action="https://formspree.io/f/yourformid" method="POST">
+<form action="https://formspree.io/f/mkoveqqr" method="POST">
 <input type="text" name="name" placeholder="Full Name" required>
 <input type="tel" name="phone" placeholder="Phone Number" required>
 <input type="text" name="company" placeholder="Company Name">
