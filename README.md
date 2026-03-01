@@ -222,7 +222,7 @@ footer {
 
 <div class="price-card">
 <h3>Starter</h3>
-<h2>₦100,000 / month</h2>
+<h2>₦150,000 / month</h2>
 <ul> 
 <li>15 Social Posts</li>
 <li>Lead Generation Ads</li>
